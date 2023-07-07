@@ -1,4 +1,4 @@
-### Hi, This is shungenie's README!!
+# Hi, This is shungenie's README!!
 
 <!--
 **shungenie/shungenie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
